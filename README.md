@@ -1,7 +1,7 @@
 # Diplomarbeit
 Diplomarbeit Luis Somoza
 
-# Ausganglage
+# Ausgangslage
 Die Firma Somoza System wurde im Jahr 2014 gegründet und besitz bis Datum keine 
 Website.
 
